@@ -1,0 +1,19 @@
+body{
+	background-color: grey;
+}
+h2{
+	font-size: 40px;
+}
+h2, h4{
+	font-family: sans-serif, Georgia, Arial, Verdana;
+	color: aquamarine;
+	text-align: center;
+
+}
+strong{
+	color: red
+}
+h4{
+	font-size: 35px;
+	font-weight: 600;
+}
